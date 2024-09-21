@@ -1,0 +1,32 @@
+[09-21|17:17:57.897] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[09-21|17:17:57.915] INFO client/client.go:139 start
+[09-21|17:17:59.553] INFO client/client.go:148 create blockchains
+[09-21|17:19:42.125] INFO client/client.go:181 status
+[09-21|17:32:03.683] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[09-21|17:32:03.733] INFO client/client.go:139 start
+[09-21|17:32:05.288] INFO client/client.go:148 create blockchains
+[09-21|17:34:04.174] INFO client/client.go:181 status
+[09-21|17:56:33.799] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[09-21|17:56:33.856] INFO client/client.go:139 start
+[09-21|17:56:36.028] INFO client/client.go:148 create blockchains
+[09-21|17:58:25.188] INFO client/client.go:181 status
+[09-21|18:08:40.206] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[09-21|18:08:40.242] INFO client/client.go:139 start
+[09-21|18:08:42.394] INFO client/client.go:148 create blockchains
+[09-21|18:10:29.120] INFO client/client.go:181 status
+[09-21|18:17:39.450] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[09-21|18:17:39.528] INFO client/client.go:139 start
+[09-21|18:17:41.697] INFO client/client.go:148 create blockchains
+[09-21|18:19:37.095] INFO client/client.go:181 status
+[09-21|19:04:57.899] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[09-21|19:04:57.985] INFO client/client.go:139 start
+[09-21|19:05:00.313] INFO client/client.go:148 create blockchains
+[09-21|19:06:48.138] INFO client/client.go:181 status
+[09-21|19:07:38.968] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[09-21|19:07:39.002] INFO client/client.go:139 start
+[09-21|19:07:40.993] INFO client/client.go:148 create blockchains
+[09-21|19:09:05.100] INFO client/client.go:181 status
+[09-21|19:27:03.588] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[09-21|19:27:03.711] INFO client/client.go:139 start
+[09-21|19:27:05.096] INFO client/client.go:148 create blockchains
+[09-21|19:28:45.097] INFO client/client.go:181 status
